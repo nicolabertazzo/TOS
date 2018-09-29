@@ -5,7 +5,7 @@
 ## Presentazione del corso
 
 ### Obiettivi formativi
-
+L'obiettivo principale del corso è quello di consentire agli studenti di acquisire l’esperienza necessaria per la gestione di un progetto software e la definizione e l’implementazione di una continuous delivery pipeline.
   
 ### Propedeuticit&agrave; obbligatorie strette
 Nessuna
@@ -18,13 +18,13 @@ Il materiale didattico presentato durante le lezioni sar&agrave; progressivament
 
 Segue il calendario delle lezioni del corso e degli appelli d'esame. 
 
-| Data  | Orario | Docente | Tema | Slides |
-| :---: | :----: | :---:   | ---- | 
-| 01 ott. | 12:30 - 14:30 | Bertazzo | Introduzione | [pdf](pdf/1-Introduzione.pdf) |
-| 01 ott. | 12:30 - 14:30 | Bertazzo | Issue Tracking System | [pdf](pdf/2-IssueTrackingSystem.pdf) |
-| 05 ott. | 12:30 - 14:30 | Bertazzo | Il Framework Scrum | [pdf](pdf/3-SCRUM.pdf) |
-| 08 ott. | 12:30 - 14:30 | Bertazzo | Gestione delle attivit&agrave; in GitHub | |
-| 15 ott. | 12:30 - 14:30 | Bertazzo | Source Code Managements (SCM) | |
+Data  | Orario | Docente | Tema | Slides 
+------------|------------|------------|------------
+01 ott. | 12:30 - 14:30 | Bertazzo | Introduzione | [pdf](pdf/1-Introduzione.pdf) 
+01 ott. | 12:30 - 14:30 | Bertazzo | Issue Tracking System | [pdf](pdf/2-IssueTrackingSystem.pdf) 
+05 ott. | 12:30 - 14:30 | Bertazzo | Il Framework Scrum | [pdf](pdf/3-SCRUM.pdf) 
+08 ott. | 12:30 - 14:30 | Bertazzo | Gestione delle attivit&agrave; in GitHub | 
+15 ott. | 12:30 - 14:30 | Bertazzo | Source Code Managements (SCM) | 
 
 Le lezioni indicate in calendario si terranno:
 
@@ -40,4 +40,5 @@ L'account Google che verr&agrave; utilizzato per la connessione Hangout &egrave;
 Tutti gli aggiornamenti verranno comunicati tramite:
 * l'aggiornamento della pagina del sito
 * una Mailing List ([gruppo google tecnologie opensource](https://groups.google.com/forum/#!forum/tecnologie-open-source))
-Per iscriversi alla Mailing List cliccare (questo indirizzo)[https://groups.google.com/group/tecnologie-open-source/subscribe].
+
+Per iscriversi alla Mailing List cliccare [questo indirizzo](https://groups.google.com/group/tecnologie-open-source/subscribe).
