@@ -44,7 +44,9 @@ Le lezioni indicate in calendario si terranno:
  
 ### Colloqui remoti 
 I colloqui remoti avverranno utilizzando Google Hangout, in finestre temporali giornaliere che vanno dalle 12:45 alle 13:45, in modalit&agrave; _first-come-first-served_. 
+
 Per prenotare il colloquio scrivere a **nicola.bertazzo [at] unipd.it** entro le 17:00 del giorno prima della data del colloquio. 
+
 L'account Google che verr&agrave; utilizzato per la connessione Hangout &egrave; **nicola.bertazzo [at] gmail.com**.
 
 ### Avvisi e Comunicazioni
