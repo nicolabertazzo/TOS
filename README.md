@@ -1,8 +1,19 @@
 # Tecnologie open-source
 
+**A. A. 2018/2019**
+
+**Laurea Magistrale in Informatica, Universita' di Padova**
+
 *[Aggiornamento: 29/09/2018: Prima pubblicazione]*
 
 ## Presentazione del corso
+
+### Insegnante
+Nicola Bertazzo - nicola.bertazzo [at] unipd.it
+
+### Periodo
+III Anno - 1 Semestre dal 01/10/2018 al 18/01/2019
+
 
 ### Obiettivi formativi
 L'obiettivo principale del corso è quello di consentire agli studenti di acquisire l’esperienza necessaria per la gestione di un progetto software e la definizione e l’implementazione di una continuous delivery pipeline.
