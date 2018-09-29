@@ -16,7 +16,7 @@ III Anno - 1 Semestre dal 01/10/2018 al 18/01/2019
 
 
 ### Obiettivi formativi
-L'obiettivo principale del corso è quello di consentire agli studenti di acquisire l’esperienza necessaria per la gestione di un progetto software e la definizione e l’implementazione di una continuous delivery pipeline.
+Fornire agli studenti un bagaglio di esperienza base per la gestione tecnologica di un progetto software e la definizione e l’implementazione di una continuous delivery pipeline.
   
 ### Propedeuticit&agrave; obbligatorie strette
 Nessuna
