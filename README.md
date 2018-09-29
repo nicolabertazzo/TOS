@@ -8,7 +8,7 @@
 
 ## Presentazione del corso
 
-### Insegnante
+### Docente
 Nicola Bertazzo - nicola.bertazzo [at] unipd.it
 
 ### Periodo
