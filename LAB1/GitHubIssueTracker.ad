@@ -1,0 +1,142 @@
+= GitHub Issue Tracker Lab
+Primo laboratorio Tecnologie open-source
+:toc: left
+
+:description: Primo laboratorio Tecnologie open-source \
+Università degli Studi di Padova \
+Dipartimento di Matematica \
+Corso di Laurea Magistrale in Informatica, A.A. 2018 – 2019 \
+
+
+== Creazione di un account in GitHub
+
+* Accedere a link:https://github.com[GitHub]
+* Premere il link **Sign up** in alto a destra o completare il form di registrazione presente nella pagina
+
+image::./static/github-sign-up.png[]
+
+== Creazione di un Progetto
+
+* Una volta effettuato il login in GitHub, creare un nuovo repository premendo il bottone **Start a project** o tramite il seguente URL:
+** https://github.com/new
+* Creare un repository pubblico inserendo i dati richiesti
+
+image::./static/create-public-repo.png[]
+
+== Creare una nuova Issue
+
+* Una volta creato il nuovo repository, accedere alla tab **Issues**
+
+image::./static/tab-issues.png[]
+
+* Creare una nuova Issue utilizzando il tasto **New Issue**
+** Inserire un titolo
+** Inserire una descrizione
+** Utilizzare le Labels per definire la tipologia **Bug**
+** Verificare che non è presente un Progetto
+** Verificare che non è presente una Milestone
+
+image::./static/new-issue.png[]
+
+* Verificare le caratteristiche della Issue appena creata
+** Codice e URL
+** Stato
+** Commenti
+** Tipo
+** Assegnatario
+** Notifiche
+
+WARNING: Notare che non sono presenti tutti i campi descritti nel corso!
+
+=== Work Flow
+In GitHub non è possibile definire un Work Flow personalizzato.
+
+Il Work Flow è lo stesso per ogni "tipologia" di Issue.
+
+Il Work Flow è composto dai seguenti stati:
+
+* Open -> Closed
+* Closed -> Reopen
+* Reopen -> Closed
+
+== Notifiche
+* Aggiungere un collaboratore al Progetto
+
+** Cliccare la Tab **Settings**
+** Cliccare la voce **collaborators**
+
+image::./static/settings.png[]
+
+image::./static/collaborators.png[]
+
+* Invitare un compagno di corso al Progetto (che dovrà accettare l'invito)
+* Assegnare la Issue precedentemente creata al collaboratore che ricverà una notifica
+
+NOTE: Le notifiche vengono inviate alla casella mail associata all'utente e segnalate all'interno di GitHub (icona a forma di campanella vicina al avatar dell'utente)
+
+== Filtri
+
+È possibile ricercare le Issue all'interno del progetto
+
+* Cliccare la Tab **Issue** o il link https://github.com/nicolabertazzo/LAB1-TOS/issues
+
+image::./static/tab-issues.png[]
+
+* Provare ad utilizzare le funzionalità di ricerca (p.es. utilizzare i filtri predefiniti)
+
+WARNING: Non è possibile salvare un filtro per un utilizzo futuro!
+link:https://help.github.com/articles/sharing-filters/[Per maggiori informazioni]
+
+Per una guida completa sulle ricerche possibili visitare il seguente collegamento
+
+https://help.github.com/articles/searching-issues-and-pull-requests/
+
+== Bacheche (Project Board)
+Per creare una nuova *Project Board* è necessario creare un progetto.
+
+* Accedere alla tab **Projects** e cliccare il bottone **Create a project**
+
+image::./static/tab-projects.png[]
+
+* Aggiungere i campi richiesti
+** Project Name: il nome del progetto
+** Description:
+** Project Template a **Automated kanban**
+* cliccare il bottone **Create project**
+
+A questo punto comparirà la Project Board creata
+
+image::./static/project-board.png[]
+
+* Trascinare la Issue precedentemente crata nella colonna **TO DO**
+* Aprire il dettaglio della Issue e verificare che il campo **Projects** sia stato valorizzato
+* Modificare lo stato della Issue a "Closed"
+* Verificare che nella Project Board la Issue è stata spostata nella colonna **DONE** e che lo stato di avanzamento del progetto è cambiato
+
+Per una guida completa sulle Project Board visitare il seguente collegamento
+
+https://help.github.com/articles/about-project-boards/
+
+== Iterazioni o Milestone
+
+E' possibile definire delle Milestone.
+
+Le Milestone permettono di definire un **tempo limite** per le Issue (Release).
+
+Per creare una Milestone:
+
+* Accedere a Tab *Issues*
+
+image::./static/tab-issues.png[]
+
+* Cliccare il bottone **milestones**
+
+image::./static/milestones.png[]
+
+* Cliccare il bottone *New milestone*
+* Definire il titolo della milestone, la data di scadenza e la descrizione
+* Creare una nuova Issue assegnando la Milestone appena creata
+
+Per maggiori informazioni sulle Milestone visitare il seguente collegamento:
+
+https://guides.github.com/features/issues/#filtering
